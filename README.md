@@ -1,2 +1,2 @@
 # DockerExample
-A simple Spark + Java example with Dockerfile
+A simple Spark + Java example with a Dockerfile
