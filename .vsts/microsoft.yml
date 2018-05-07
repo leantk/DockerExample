@@ -1,0 +1,6 @@
+queue:
+  name: default
+steps:
+- task: Docker@0
+  inputs:
+    containerregistrytype: 'Container Registry'
