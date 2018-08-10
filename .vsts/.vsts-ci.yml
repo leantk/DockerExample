@@ -1,7 +1,7 @@
 # Build a Docker image
 # https://docs.microsoft.com/vsts/pipelines/languages/docker
 
-queue: 'Hosted Ubuntu 1604'
+queue: 'Hosted Linux Preview'
 variables:
   imageName: '$(Build.Repository.Name):$(Build.BuildId)'
 
